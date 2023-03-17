@@ -1,0 +1,16 @@
+/* style */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,700;0,900;1,400&display=swap');
+body{
+    font-family: "roboto", sans-serif
+}
+
+/* debut header  */
+.header-bg {
+    background-image: url('images/background.svg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: auto; /* hauteur de la section */
+    position: relative;
+    height: 100vh;
+  }
